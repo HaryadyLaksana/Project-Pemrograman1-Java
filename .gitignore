@@ -1,4 +1,8 @@
-# Build results (ALL LEVEL)
+# =========================
+# NetBeans (ALL LEVEL)
+# =========================
+
+# Build folders (semua level)
 **/build/
 **/dist/
 **/nbbuild/
@@ -7,6 +11,17 @@
 # Compiled files
 *.class
 *.jar
+*.war
+*.ear
 
 # NetBeans private
 **/nbproject/private/
+
+# Logs
+*.log
+*.tmp
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
