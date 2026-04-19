@@ -1,27 +1,12 @@
-# =========================
-# NetBeans (ALL LEVEL)
-# =========================
-
-# Build folders (semua level)
+# NetBeans - recursive
 **/build/
 **/dist/
 **/nbbuild/
 **/nbdist/
 
-# Compiled files
+# Compiled
 *.class
 *.jar
-*.war
-*.ear
 
 # NetBeans private
 **/nbproject/private/
-
-# Logs
-*.log
-*.tmp
-*.bak
-
-# OS
-.DS_Store
-Thumbs.db
