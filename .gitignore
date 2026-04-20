@@ -1,18 +1,3 @@
-# NetBeans build files
 build/
 dist/
-nbbuild/
-nbdist/
 nbproject/private/
-
-# Compiled files
-*.class
-*.jar
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# IDE files
-.idea/
-.vscode/
